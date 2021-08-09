@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "22A438B681C7EF7D2896826BC0793F39",
+  "keywordClasses": [
+    {
+      "name": "com.utils.WriteExcel",
+      "keywordMethods": [
+        {
+          "name": "demoWriteExcel",
+          "parameters": [
+            {
+              "name": "strTest",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
